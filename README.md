@@ -1,5 +1,16 @@
-Curso: Microsoft Power BI Para Business Intelligence e Data Science 
+📊 Microsoft Power BI Para Business Intelligence e Data Science
 
-Plataforma: Data Science Academy
+Este repositório reúne os exercícios, práticas e projetos práticos desenvolvidos durante o curso Microsoft Power BI Para Business Intelligence e Data Science, oferecido pela Data Science Academy.
 
-Objetivo: Este é um curso único e você terá a chance de aprender não apenas a utilizar o Microsoft Power BI, mas aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python. Em cada LAB, encontrará dashboards.
+O curso aborda desde os fundamentos do Power BI até a integração com técnicas avançadas de Data Science, incluindo a criação de modelos preditivos, integração com R e Python e construção de dashboards analíticos nos laboratórios práticos.
+
+📜 Licença e Uso
+
+Este repositório foi criado para fins de registro de aprendizado e consulta de portfólio.
+- ❌ Não é permitida a cópia, reprodução ou redistribuição do conteúdo sem autorização prévia.
+- 👁️ Disponível apenas para visualização e consulta.
+
+✍️ Autora
+
+Ana Elisa Rubinato Cavalheiro  
+Graduanda em Tecnologia em Ciência de Dados para Negócios — FATEC Votorantim
